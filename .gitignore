@@ -29,4 +29,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/main/java/pl/mirek/springcourse/config/ConfD.java
