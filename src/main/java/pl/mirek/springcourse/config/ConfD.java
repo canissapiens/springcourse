@@ -20,6 +20,6 @@ public class ConfD {
 
     @EventListener(ApplicationReadyEvent.class)
     private void greetings() {
-        System.out.println("ConfC.class says: Hello " + author + "!");
+        System.out.println("ConfD.class says: Hello " + author + "!");
     }
 }
